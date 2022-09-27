@@ -2,3 +2,4 @@
 #vamos a ignorar archivos txt
 *.txt
 conexion.php
+!prueba2.txt
